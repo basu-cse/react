@@ -1,0 +1,11 @@
+{
+  "name": "smalltask",
+  "version": "1.1.1",
+  "description": "Task",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
